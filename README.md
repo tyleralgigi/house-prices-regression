@@ -7,8 +7,8 @@
 <h5 align="center"> Advanced Regression Techniques <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview">Kaggle</a> </h5>
 
 <h2>Overview</h2>
-<p>A competition provided by <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview">Kaggle</a> to create a regression alogthrim to predict the finial price of homes.</p>
-<p>Developed with python I used one of SKlearns linear models, Lasso Regession to train my model. For feauture preperation, selection, and extraction I used techniques such as removing outliers, encoding strings to ints, and Boruta-SHAP package to select the best features. The model scored a 92%. </p>
+<p>A competition provided by <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview">Kaggle</a> to create a regression algorithm to predict the finial price of homes.</p>
+<p>Developed with python I used one of SKlearn linear models, Lasso Regression to train my model. For feature preparation, selection, and extraction I used techniques such as removing outliers, encoding strings to ints, and Boruta-SHAP package to select the best features. The model scored a 92%. </p>
 
 ![alt text](https://github.com/tyleralgigi/house-prices-regression/blob/main/features_importance.png?raw=true)
 
